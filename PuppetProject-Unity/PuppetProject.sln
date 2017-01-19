@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B4814FB9-8086-0686-A2F4-58E451ED57DA}") = "PuppetProject", "Assembly-CSharp.csproj", "{1E3704C5-8B25-27A1-21F0-B4C6F87FB454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3704C5-8B25-27A1-21F0-B4C6F87FB454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3704C5-8B25-27A1-21F0-B4C6F87FB454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3704C5-8B25-27A1-21F0-B4C6F87FB454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3704C5-8B25-27A1-21F0-B4C6F87FB454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
